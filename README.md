@@ -2,4 +2,4 @@ This repository contains an analysis of the IBM Employee Retention dataset using
 
 The analysis begins with an exploratory data analysis to understand the distribution of variables and identify any correlations between them. Next, several visualizations are created using Tableau to better understand the data and identify any patterns or trends. These visualizations include scatter plots, heat maps, and bar charts.
 
-The results of the analysis reveal several interesting insights about employee retention at IBM. For example, it was found that employees who received higher salaries and had more job satisfaction tended to stay longer at the company. Additionally, employees in certain departments, such as sales and human resources, had lower retention rates compared to other departments.
+The results of the analysis reveal several interesting insights about employee retention at IBM. For example, it was found that employees who received higher salaries and had more job satisfaction tended to stay longer at the company. Additionally, employees in certain departments, such as sales and human resources, had lower retention rates compared to other departments..
